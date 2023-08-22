@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/shelfs.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A shelf with some badges from Microsoft Learn Student Ambassadors and certifications";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learn How to become a Student Ambassador!",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The official Microsoft Learn Student Ambassador program page. Includes a video, FAQ, and application link.",
+    url: "https://studentambassadors.microsoft.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My github with open source contributions",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My github with open source contributions for you to study and learn from.",
+    url: "https://github.com/rafaelgalvaolm",
   },
   {
-    title: "My Resume Site",
+    title: "My linked in, where you can see my experience",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My linked in, where you can see my experience and projects i am working on.",
+    url: "https://www.linkedin.com/in/rafael-galv%C3%A3o-lopes-de-mendon%C3%A7a-613581214/",
   },
   {
     title: "GitHub Codespaces and github.dev",
